@@ -1,0 +1,7 @@
+- Virtual Networks (VNets)
+- Subnets
+- Network Security Groups (NSGs)
+- Route Tables
+- VPN Gateway
+- ExpressRoute
+- Azure DNS

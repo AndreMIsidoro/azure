@@ -1,0 +1,5 @@
+- Microsoft Entra ID (Azure AD)
+- Role-Based Access Control (RBAC)
+- Conditional Access
+- Azure Key Vault
+- Azure Policy

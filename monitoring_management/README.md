@@ -1,0 +1,7 @@
+- Azure Monitor
+- Azure Log Analytics
+- Azure Application Insights
+- Azure Advisor
+- Azure Service Health
+- Azure Arc
+- Azure Resource Manager (ARM) & Bicep

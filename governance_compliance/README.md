@@ -1,0 +1,6 @@
+- Azure Tags
+- Resource Locks
+- Azure Blueprints
+- Cost Management & Budgets
+- Microsoft Purview
+- Azure Service Trust Portal

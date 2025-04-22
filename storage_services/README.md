@@ -1,0 +1,4 @@
+- Blob Storage
+- File Storage
+- Storage Tiers (Hot, Cool, Archive)
+- Managed Disks

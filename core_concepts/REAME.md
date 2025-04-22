@@ -1,0 +1,4 @@
+- What is Cloud Computing?
+- Azure vs AWS vs GCP
+- Azure Regions, Availability Zones, Resource Groups
+- Azure Subscriptions & Management Groups
