@@ -87,4 +87,12 @@ While the SaaS model may be the least flexible, it’s also the easiest to get u
 
 The shared responsibility model applies to all the cloud service types. SaaS is the model that places the most responsibility with the cloud provider and the least responsibility with the user.
 
+### Factors that can affect costs in Azure
+
+- Resource type
+- Consumption
+- Maintenance
+- Geography
+- Subscription type
+- Azure Marketplace
 
