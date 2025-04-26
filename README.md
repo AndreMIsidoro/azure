@@ -10,4 +10,14 @@ az login
 
 ```shell
 az account list --output table
+az account show
+```
+
+
+## Group
+
+Show information of a resource group
+
+```shell
+az group show --name [resource_group_name]
 ```
