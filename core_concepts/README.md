@@ -3,6 +3,32 @@
 - Azure Regions, Availability Zones, Resource Groups
 - Azure Subscriptions & Management Groups
 
+## Azure Core Services
+
+| Category               | Core Azure Service                         | Description                                              |
+|------------------------|--------------------------------------------|----------------------------------------------------------|
+| Compute                | Azure Virtual Machines (VMs)               | Infrastructure-as-a-Service (IaaS) virtual machines      |
+| Storage                | Azure Blob Storage                         | Object storage platform for unstructured data            |
+| Networking             | Azure Virtual Network (VNet)               | Provides isolated, private cloud network infrastructure  |
+| Identity & Access      | Microsoft Entra ID (formerly Azure AD)     | Identity provider for users, devices, and applications   |
+| Access Control         | Azure Role-Based Access Control (RBAC)     | Role-based permission system for managing resource access|
+| File Storage           | Azure Files                                | Managed file shares accessible via SMB protocol          |
+| Secrets Management     | Azure Key Vault                            | Centralized storage of secrets, certificates, and keys   |
+| Resource Management    | Azure Resource Manager (ARM)               | Infrastructure provisioning and management layer         |
+| Monitoring             | Azure Monitor / Log Analytics              | Centralized logging, metrics, and alerting               |
+
+## Other Common Azure Services
+
+| Category               | Service                                    | Description                                                    |
+|------------------------|--------------------------------------------|----------------------------------------------------------------|
+| Serverless Compute     | Azure Functions                            | Executes code in response to events without server management  |
+| Application Hosting    | App Service                                | Platform-as-a-Service (PaaS) for web apps and APIs             |
+| Security Monitoring    | Microsoft Defender for Cloud               | Security posture and threat protection for Azure resources     |
+| Infrastructure as Code | Azure Bicep / Terraform                    | Declarative tools for infrastructure provisioning              |
+| DNS & Routing          | Azure DNS / Traffic Manager                | Domain name resolution and traffic distribution                |
+| Structured Storage     | Azure SQL Database / Cosmos DB             | Managed relational and NoSQL database offerings                |
+
+
 
 ### Cloud Computing
 

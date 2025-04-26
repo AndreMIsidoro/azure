@@ -21,11 +21,3 @@ Availability zones are physically separate datacenters within an Azure region. E
 
 Sovereign regions (like Azure Governmentand Azure Chinaare designed to meet specific regulatory and compliance requirements.These regions are physically and logically separatedfrom standard Azure regions and often operated under special governance.
 
-## Azure Resources
-
-Resource is the basic building block of Azure. Anything you create, provision, deploy, etc. is a resource. Virtual Machines (VMs), virtual networks, databases, cognitive services, etc. are all considered resources within Azure.
-
-
-### Azure Resource Groups
-
-Resource groups are simply groupings of resources. When you create a resource, you’re required to place it into a resource group.
