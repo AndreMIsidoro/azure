@@ -9,6 +9,25 @@ VMs are an ideal choice when you need:
 - To use custom hosting configurations.
 
 
+## Comparison with EC2
+
+| Feature / Concept            | AWS EC2                                 | Azure Virtual Machines                        |
+|-----------------------------|------------------------------------------|-----------------------------------------------|
+| Compute service name        | EC2 (Elastic Compute Cloud)             | Azure Virtual Machines (VMs)                  |
+| Preconfigured images        | AMIs (Amazon Machine Images)            | Azure Marketplace Images                      |
+| Instance scaling            | Auto Scaling Groups (ASG)               | Virtual Machine Scale Sets (VMSS)             |
+| On-demand pricing           | On-Demand Instances                     | Pay-as-you-go VMs                             |
+| Spot/low-priority pricing   | EC2 Spot Instances                      | Azure Spot VMs                                |
+| Reserved capacity           | Reserved Instances                      | Reserved Virtual Machines                     |
+| Dedicated hardware          | EC2 Dedicated Hosts                     | Azure Dedicated Hosts                         |
+| Metadata service            | EC2 Instance Metadata Service           | Azure Instance Metadata Service               |
+| User data on launch         | User Data scripts                       | Custom Data (cloud-init)                      |
+| Load balancing              | Elastic Load Balancer (ELB)             | Azure Load Balancer / Application Gateway     |
+| Networking                  | VPC, Security Groups, Elastic IPs       | Virtual Network (VNet), NSGs, Public IPs      |
+| CLI / SDK                   | AWS CLI, Boto3                          | Azure CLI, Azure SDK                          |
+
+
+
 ### Virtual machine scale sets
 
 Scale sets allow you to centrally manage, configure, and update a large number of VMs in minutes. The number of VM instances can automatically increase or decrease in response to demand, or you can set it to scale based on a defined schedule. Virtual machine scale sets also automatically deploy a load balancer to make sure that your resources are being used efficiently.
