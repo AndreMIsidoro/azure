@@ -21,3 +21,12 @@ Show information of a resource group
 ```shell
 az group show --name [resource_group_name]
 ```
+
+
+## Resource Provider
+
+List all resource providers
+
+```shell
+az provider list
+```
