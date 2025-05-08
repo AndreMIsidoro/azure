@@ -30,3 +30,12 @@ List all resource providers
 ```shell
 az provider list
 ```
+
+
+## Network
+
+Show Virtual network
+
+```shell
+az network vnet show --resource-group  [resource_group_name] --name [virtual_network_name]
+```
