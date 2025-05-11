@@ -13,6 +13,14 @@ az account list --output table
 az account show
 ```
 
+## Container Registry
+
+List container registries
+
+```shell
+az acr list
+```
+
 
 ## Group
 
