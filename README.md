@@ -47,3 +47,17 @@ Show Virtual network
 ```shell
 az network vnet show --resource-group  [resource_group_name] --name [virtual_network_name]
 ```
+
+## VM
+
+Show Ubuntu images published
+
+```shell
+az vm image list --publisher Canonical --offer UbuntuServer  --all --location eastus --output table
+```
+
+Show Debian images published
+
+```shell
+az vm image list --publisher debian --all --location eastus --output table
+```
